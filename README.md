@@ -1,4 +1,4 @@
->  文章图片暂存地址
+>  github > cdn 图床
 
 ## 文章地址：[Nealyang/PersonalBlog](https://github.com/Nealyang/PersonalBlog)
 
